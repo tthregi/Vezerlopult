@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    margin-left: 10%;
+    color: rgb(125, 107, 240);
+}
+div{
+    margin: auto;
+    text-align: center;
+    color: black;
+    background-color: rgb(44, 43, 81);
+    font-family: 'Tilt Prism', cursive;
+    border: 1px solid rgb(82, 65, 159);
+    border-radius: 5px;
+    text-align: center;
+    float:left;
+    
+}
+body{
+    background-color:rgb(35, 32, 70);
+}
+.btn{
+    display: inline-block;
+    font-family: 'Tilt Prism', cursive;
+    color:black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    width: 50%;
+    margin-bottom: 30px;
+    background-color: rgb(69, 72, 113);
+}
+.btn:hover, .card:hover {
+    background-color:rgb(14, 4, 62);
+  }
+.card{
+    margin-left:3%;
+    margin-top: 5%;
+}

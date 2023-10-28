@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+    
+}
+div{
+    margin: auto;
+    text-align: center;
+    color: black;
+    background-color: rgb(218, 46, 141);
+    font-family: 'Tilt Prism', cursive;
+    float: left;
+    border-radius: 40px;
+    border: 2px solid rgb(122, 33, 64);
+    
+}
+body{
+    background-color:rgb(236, 94, 186);
+}
+.btn{
+    display: inline-block;
+    font-family: 'Tilt Prism', cursive;
+    color:black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    width: 80%;
+    margin-bottom: 30px;
+    background-color: rgb(162, 19, 112);
+}
+.btn:hover, .card:hover {
+    background-color:rgb(88, 17, 55);
+  }
+  .card{
+    margin-left:3%;
+    margin-top: 5%;
+}
+

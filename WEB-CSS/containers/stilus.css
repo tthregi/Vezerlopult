@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+    }
+
+h1{
+    text-align: center;
+
+    } 
+
+div{
+    margin: auto;
+    text-align: center;
+    color: black;
+    background-color: rgb(34, 228, 115);
+    font-family: 'Tilt Prism', cursive;
+    border-radius: 20px;
+    border: 2px solid rgb(18, 114, 74);
+    
+    
+    
+}
+body{
+    background-color:rgb(0, 255, 132);
+}
+.btn{
+    display: inline-block;
+    font-family: 'Tilt Prism', cursive;
+    color:black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    width: 80%;
+    margin-bottom: 30px;
+    background-color: rgb(10, 75, 39);
+}
+.btn:hover, .card:hover {
+    background-color:rgb(14, 107, 62);
+  }
+  .card{
+    margin-left:3%;
+    margin-top: 5%;
+}
